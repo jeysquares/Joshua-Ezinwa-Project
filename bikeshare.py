@@ -26,7 +26,7 @@ def get_filters():
         
        
     # TO DO: get user input for month (all, january, february, ... , june)
-    months = ['january', 'february', 'march', 'april', 'may', 'june','all']
+    months = ['january', 'february', 'march', 'april', 'may', 'june','july', 'august','september','october','november', 'december']
     month = input('Kindly Enter the month from January to June OR Enter "all" for no month filter : ')
     month = month.casefold()
     while month not in months:
