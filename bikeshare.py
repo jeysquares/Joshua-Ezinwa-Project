@@ -174,7 +174,7 @@ def trip_duration_stats(df):
 
     
     
-    # TO DO: display total travel time
+    # TO DO: display total travel time and duration
     print('Total Trip Duration:', df['Trip Duration'].sum())
 
     
