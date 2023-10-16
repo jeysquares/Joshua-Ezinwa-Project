@@ -152,7 +152,7 @@ def station_stats(df):
     
     
     
-    # TO DO: display most commonly used end station
+    # TO DO: display most commonly used end station and city
     print('Most Regular End Station: ', df['End Station'].mode()[0])
     
     
