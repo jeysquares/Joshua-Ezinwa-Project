@@ -32,4 +32,10 @@ washington.csv
 new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+www.github.com
+## File Description
+./data/ contains the various datasets
+./examples/ contains an example of the data cleaning process
+./2016_US_Bikeshare_Analysis.ipynb is a Jupyter notebook containing the work I have done
+./2016_US_Bikeshare_Analysis.pdf is an exported version of the above file using LaTeX
+./Bike_Share_Analysis.ipynb is a Jupyter notebook containing the "skeleton" code for this project
